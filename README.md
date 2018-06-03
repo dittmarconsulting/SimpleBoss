@@ -14,6 +14,10 @@ To move forward we just swap the clicked position of the array with position + 1
 
 Since we have a straight array we can render the array in a FlatList with `numColumns` equal the `gridLength`.
 
+<video width="320" height="240" controls>
+    <source src="docs/SimpleBoss.mp4" type="video/mp4">
+</video>
+
 ## Installation
 
 #### npm Dependency Installation
